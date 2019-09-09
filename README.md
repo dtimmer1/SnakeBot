@@ -6,7 +6,7 @@ SnakeBot is a Java program that uses a genetic algorithm to optimize a feed-forw
 
 Genetic algorithms are a set of optimization algorithms that simulate the real-life genetic processes of cross-over, mutation, and natural selection to generate an optimal solution according to some fitness function. In the context of the game Snake, the fitness function is a function primarily of the number of points scored over the course of the game. By selecting for this, the weights of a feed-forward neural network can be optimized by the genetic algorithm to create an autonomous program that (occasionally) plays Snake well.
 
-![SnakeBot screenshot](readme_pic.png)
+![SnakeBot screenshot](https://raw.githubusercontent.com/dtimmerman998/SnakeBot/master/readme_pic.PNG)
 
 
 ###Functionality
